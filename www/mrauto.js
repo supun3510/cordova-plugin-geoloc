@@ -5,6 +5,7 @@
             this.ACCESS_LOCATION_EXTRA_COMMANDS = 'android.permission.ACCESS_LOCATION_EXTRA_COMMANDS';
             this.ACCESS_NETWORK_STATE = 'android.permission.ACCESS_NETWORK_STATE';
             this.CAMERA = 'android.permission.CAMERA'; 
+            
  }
    
  GeoLoc.prototype = { 
