@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-geoloc",
+  "version": "0.0.1",
+  "description": "Android MR Automation App Check And Request",
+  "cordova": {
+    "id": "cordova-plugin-geoloc",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supun3510/cordova-plugin-geoloc-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "supun-samarawickrama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supun3510/cordova-plugin-geoloc-plugin/issues"
+  },
+  "homepage": "https://github.com/supun3510/cordova-plugin-geoloc-plugin#readme"
+}
